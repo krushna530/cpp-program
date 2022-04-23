@@ -1,3 +1,4 @@
+//Binary operator overloading using friend function
 #include<iostream.h>
 #include<conio.h>
 class binary
